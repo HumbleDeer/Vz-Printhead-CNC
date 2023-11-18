@@ -5,7 +5,7 @@ HEADER;
  */
 
 FILE_DESCRIPTION(
-/* description */ (''),
+/* description */ ('Mockup reference model of V-Core 3 Vz-Printhead'),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
