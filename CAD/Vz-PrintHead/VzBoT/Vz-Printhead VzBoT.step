@@ -5,14 +5,14 @@ HEADER;
  */
 
 FILE_DESCRIPTION(
-/* description */ (''),
+/* description */ ('Mockup reference model of VzBoT Vz-Printhead'),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'D:/Vz-Printhead VzBoT.step',
+/* name */ 'Vz-Printhead VzBoT.step',
 /* time_stamp */ '2022-08-26T15:15:16-04:00',
-/* author */ (''),
-/* organization */ (''),
+/* author */ ('Simon Vez'),
+/* organization */ ('VzBoT3D'),
 /* preprocessor_version */ 'ST-DEVELOPER v19',
 /* originating_system */ 'Autodesk Translation Framework v11.7.0.108',
 /* authorisation */ '');
