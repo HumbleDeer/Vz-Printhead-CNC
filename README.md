@@ -1,6 +1,6 @@
 # The Vz-Printhead (CNC version)
 
-The CNC Vz-Printhead is a light weight (27g full alu, and 22g hybrid carbon fiber+alu) and stiff head made for the VzBoTs, and now for Vcore3 (if using MGN9 X rail). 
+The CNC Vz-Printhead is a lightweight (27g full alu, and 22g hybrid carbon fiber+alu) hyper-optimized for extreme stiffness, rigidity and performance. Originally designed for the VzBoT printers, it is available for a variety of printer platforms and has an open ecosystem of adaptable fan ducts, probe mounts, modification prints, and more. 
 
 It was designed with compatibility in mind, already fitting a majority of the possible extruder and hot end combinations out there. With the height adjustable fan duct, your cooling system adapts to your hot end setup.
 
@@ -13,6 +13,7 @@ Besides the VzBoT, the Vz-Printhead has also seen extensive use on other high-pe
 - [VzBoT](https://docs.vzbot.org/vz-other/vz-printhead/)
 - RatRig
   - Not supported by RatRig
+  - Requires MGN9 X-gantry
 - [ZeroG](zerog.one)
 
 You can find more information about these printheads and variants on their respective documentation pages.
