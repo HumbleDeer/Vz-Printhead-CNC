@@ -1,8 +1,10 @@
 # The Vz-Printhead (CNC version)
 
-The CNC Vz-Printhead is a lightweight (27g full alu, and 22g hybrid carbon fiber+alu) hyper-optimized for extreme stiffness, rigidity and performance. Originally designed for the VzBoT printers, it is available for a variety of printer platforms and has an open ecosystem of adaptable fan ducts, probe mounts, modification prints, and more. 
+The CNC Vz-Printhead is a lightweight and hyper-optimized for extreme stiffness, rigidity and performance. Originally designed for the VzBoT printers, it is available for a variety of printer platforms and has an open ecosystem of adaptable fan ducts, probe mounts, modification prints, and more.
 
-It was designed with compatibility in mind, already fitting a majority of the possible extruder and hot end combinations out there. With the height adjustable fan duct, your cooling system adapts to your hot end setup.
+It was designed with compatibility in mind, already fitting a majority of the possible extruder and hot end combinations out there. With the height adjustable fan duct, your cooling system adapts to your hot end and extruder setup right out of the box!
+
+The aluminium version of the Vz-Printhead clocks in at **27 grams**, while the aluminium and carbon fiber composite version of the Vz-Printhead weighs just a feathers touch at just **22 grams**.
 
 ![IMG_8273](https://user-images.githubusercontent.com/37383368/187105353-657cd083-950b-49dd-8772-5d5d4ec92844.jpg)
 
