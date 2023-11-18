@@ -10,7 +10,7 @@ The aluminium version of the Vz-Printhead clocks in at **27 grams**, while the a
 
 ## Other versions
 
-Besides the VzBoT, the Vz-Printhead has also seen extensive use on other high-performance 3D-printers alike. There are a variety of suitable printhead and adapter parts available from our regular [vendors][#vendors] to suit your needs.
+Besides the VzBoT, the Vz-Printhead has also seen extensive use on other high-performance 3D-printers alike. There are a variety of suitable printhead and adapter parts available from our regular [vendors](#vendors) to suit your needs.
 
 - [VzBoT](https://docs.vzbot.org/vz-other/vz-printhead/)
 - RatRig
