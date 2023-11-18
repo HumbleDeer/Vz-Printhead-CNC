@@ -1,17 +1,38 @@
-# The Vz-Printhead
+# The Vz-Printhead (CNC version)
 
-The Vz-Printhead is a light weight (27g full alu, and 22g hybrid carbon fiber+alu) and stiff head made for the VzBoTs, and now for Vcore3 (if using MGN9 X rail). It was designed to be compatible with almost all hotends,
-and extruders out there. With the height adjustable fan duct, you can easily change your config without having to re-print a new fan duct.
+The CNC Vz-Printhead is a light weight (27g full alu, and 22g hybrid carbon fiber+alu) and stiff head made for the VzBoTs, and now for Vcore3 (if using MGN9 X rail). 
+
+It was designed with compatibility in mind, already fitting a majority of the possible extruder and hot end combinations out there. With the height adjustable fan duct, your cooling system adapts to your hot end setup.
 
 ![IMG_8273](https://user-images.githubusercontent.com/37383368/187105353-657cd083-950b-49dd-8772-5d5d4ec92844.jpg)
 
+## Other versions
 
-## The official tool head is produced by our 2 main partners.
- -F3D racing in germany (World wide shipping except Asia market)  https://f3d-racing-fdm.myshopify.com/
- 
- -Mellow3D (Asia Market only) 
- 
+Besides the VzBoT, the Vz-Printhead has also seen extensive use on other high-performance 3D-printers alike. There are a variety of suitable printhead and adapter parts available from our regular [vendors][#vendors] to suit your needs.
 
-## This project is licensed Non-commercial except for our authorized partners
+- [VzBoT](https://docs.vzbot.org/vz-other/vz-printhead/)
+- RatRig
+  - Not supported by RatRig
+- [ZeroG](zerog.one)
+
+You can find more information about these printheads and variants on their respective documentation pages.
+
+## Vendors 
+
+The official tool head is produced by our 2 main partners. They both cover their respective economic zones:
+
+- [F3D Racing](https://f3d-racing-fdm.myshopify.com/)
+  - European Union (other regions are expensive to ship to)
+  - Based in Germany
+  - No ZeroG Vz-Printhead
+- [Mellow 3D](https://www.aliexpress.com/item/1005005738653240.html)
+  - Everywhere but the European Union
+  - Based in China
+  - _Sells VzBoT kits too!_
+ 
+## License
+
+This project is licensed Non-commercial except for our authorized partners
+
 <img width="389" alt="image" src="https://user-images.githubusercontent.com/37383368/187048918-d388e8f9-8f84-4fd7-b27f-d4f9ee766cb4.png">
 
