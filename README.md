@@ -14,7 +14,7 @@ Besides the VzBoT, the Vz-Printhead has also seen extensive use on other high-pe
 
 - [VzBoT](https://docs.vzbot.org/vz-other/vz-printhead/)
 - RatRig
-  - Not supported by RatRig
+  - No *official* RatRig support
   - Requires MGN9 X-gantry
 - [ZeroG](zerog.one)
 
