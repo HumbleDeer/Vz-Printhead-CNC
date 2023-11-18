@@ -9,12 +9,10 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 
-'C:/Users/simon/OneDrive - SIRSIDYNIX CORPORATION/GIT/Vz-Printhead/CAD
-/Vz-PrintHead/Vcore3/Vz-PrintHead Vcore3.step',
+/* name */ 'Vz-PrintHead Vcore3.step',
 /* time_stamp */ '2022-08-28T22:04:17-04:00',
-/* author */ (''),
-/* organization */ (''),
+/* author */ ('Simon Vez'),
+/* organization */ ('VzBoT3D'),
 /* preprocessor_version */ 'ST-DEVELOPER v19',
 /* originating_system */ 'Autodesk Translation Framework v11.7.0.108',
 /* authorisation */ '');
